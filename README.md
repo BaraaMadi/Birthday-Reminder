@@ -1,3 +1,17 @@
+## Make BIRTHDAYS LIST for your family & friends.
+
+# Tools Used:
+<ul>
+       <li>State & Props</li>
+       <li>useState()</li>
+       <li>Event</li>
+  <li>Clean Code</li>
+   </ul>  
+   
+ ## Demo:
+ 
+   ![Demo](https://user-images.githubusercontent.com/45298945/111470874-58f0e500-8739-11eb-8b27-b2b9952c8c41.jpeg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
